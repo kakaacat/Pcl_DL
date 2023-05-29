@@ -28,7 +28,6 @@ MANIFEST
 data/
 checkpoints/
 visual/
-pretrained/
 
 
 # PyInstaller
